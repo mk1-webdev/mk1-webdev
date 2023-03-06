@@ -50,5 +50,12 @@ Here is the place where I do and break things:smile:.
 
 Hit me up in my socials
 
+<a href="your-LinkedIn-URL">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+  <a href="your-LinkedIn-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
 <h2>:fire:Some stats: </h2>
 <img src="https://github-readme-stats.vercel.app/api?username=mk1-webdev&show_icons=true" />
