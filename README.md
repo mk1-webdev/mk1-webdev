@@ -51,4 +51,4 @@ Here is the place where I do and break things:smile:.
 Hit me up in my socials
 
 <h2>:fire:Some stats: </h2>
-(https://github-readme-stats.vercel.app/api?username=mk1-webdev)
+https://github-readme-stats.vercel.app/api?username=mk1-webdev
